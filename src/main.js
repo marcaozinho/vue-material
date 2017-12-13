@@ -6,7 +6,6 @@ import VueMaterial from  'vue-material'
 import 'vue-material/dist/vue-material.css'
 
 import App from './App'
-import Topo from './components/Topo'
 import router from './router'
 
 Vue.use(VueMaterial)
